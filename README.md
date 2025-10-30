@@ -182,6 +182,15 @@ Blockchain Check — Server verifies authenticity via Hedera Mirror Node.
 
 Response — WhatsApp replies with instant verification status.
 
+
+
+**HOW TO USE THE WHATSAPP BOT
+1. On WhatsApp, start a chat with this number +1 (415) 523-8886
+2. Send this message, join hole-sink to join my sandbox
+3. Send Hi Afiya (or a greeting), to receive basic instructions on how to go about verification
+4. Then you can go ahead and use it**
+
+
 🌍 Impact
 
 🛡️ 100% Transparent drug verification
