@@ -203,6 +203,9 @@ Response — WhatsApp replies with instant verification status.
 
 🌐 Enables regulators to track pharma supply chains securely
 
+      Accessibility to every african in their different categories, hence petty traders, young school leavers, semi-educated, literate and all will be able to use this    software. Hence impacting africa at large
+
+
 📈 Market & Business Model
 
 Target: Pharmaceutical manufacturers, regulatory bodies (NAFDAC, KEBS, SAHPRA), and pharmacies.
