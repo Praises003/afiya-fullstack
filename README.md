@@ -259,6 +259,9 @@ POST	/api/whatsapp	WhatsApp webhook for OCR verification
 
 ---
 
+PITCH DECK: https://drive.google.com/file/d/1mA7eLb82tUVU2yCsKlKlrTNh12Uf5aIq/view
+CERTIFICATION:https://drive.google.com/file/d/1bzgIeFnOI5DaK2y2TACa9xsth9GN9SiX/view
+
 ## 🧑‍💻 Contributor
 
 | Name                | Role                               |
